@@ -142,7 +142,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<b>🗂️Total File :- {leng}</b>\n<b>🎬Movie Name :-</b> <code>{query}</code>"
+    text=f"<b>Search 🔍 Result:- {leng}</b>\n<b>Queris:-</b> <code>{query}</code>"
         
     try:
         await update.message.edit(
@@ -1680,10 +1680,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('👤Mrk YT', url='https://t.me/MRK_YT'),
-            InlineKeyboardButton('Skp KP👤', url='https://t.me/Skp_Kp')
+            InlineKeyboardButton('👤 Illustrate Creator', url='https://t.me/illustratecreator'),
+            InlineKeyboardButton('Upfate channel👤', url='https://t.me/illustratecreator')
         ],[
-            InlineKeyboardButton('👤 AlbertEinstein 👤', url='https://t.me/AlbertEinsteinTG')
+            InlineKeyboardButton('👤 Main Group 👤', url='https://t.me/disscusswithillustrate')
         ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('Close 🔐', callback_data='close')
