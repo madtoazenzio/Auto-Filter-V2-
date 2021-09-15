@@ -8,20 +8,20 @@ class Translation(object):
 
 <b>I am a Pro AutoFilterBot V2....😜</b>
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
+<b>Iam Working For My Admin So Don't Waste Time</b>
 
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
+<b> My Admin Channel Illustrate Creator</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>This Auto Filter Version Is V2</b>
 
 <b>Press /help to know about available commands🤪</b>"""    
     
     HELP_TEXT = """
-<b>😉How To Use Me!😉?</b>
+<b>Join My Group That's All</b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> 👆
+-> 👆
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -46,14 +46,14 @@ class Translation(object):
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
+<b><a href="https://t.me/illustratecreator">© Mo Tech YT</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/"></a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/"></a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
